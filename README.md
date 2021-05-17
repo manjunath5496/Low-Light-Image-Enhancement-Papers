@@ -39,7 +39,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Low-Light-Image-Enhancement-Papers/blob/master/l(20).pdf" style="text-decoration:none;">Deep Bilateral Learning for Real-Time Image Enhancement</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Low-Light-Image-Enhancement-Papers/blob/master/l(21).pdf" style="text-decoration:none;">Color-wise Attention Network for Low-light Image Enhancement</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Low-Light-Image-Enhancement-Papers/blob/master/l(22).pdf" style="text-decoration:none;">Deep Bilateral Learning for Real-Time Image Enhancement</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Low-Light-Image-Enhancement-Papers/blob/master/l(22).pdf" style="text-decoration:none;">An Experiment-Based Review of Low-Light Image Enhancement Methods</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Low-Light-Image-Enhancement-Papers/blob/master/l(23).pdf" style="text-decoration:none;">Enhancing Low Light Videos by Exploring High Sensitivity Camera Noise</a></li> 
  
 
@@ -56,7 +56,7 @@
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Low-Light-Image-Enhancement-Papers/blob/master/l(30).pdf" style="text-decoration:none;">MSR-net:Low-light Image Enhancement Using Deep Convolutional Network</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Low-Light-Image-Enhancement-Papers/blob/master/l(31).pdf" style="text-decoration:none;">MSR-net:Low-light Image Enhancement Using Deep Convolutional Network</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Low-Light-Image-Enhancement-Papers/blob/master/l(31).pdf" style="text-decoration:none;">Low-Light Image Enhancement by Principal Component Analysis</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Low-Light-Image-Enhancement-Papers/blob/master/l(32).pdf" style="text-decoration:none;">EEMEFN: Low-Light Image Enhancement via Edge-Enhanced Multi-Exposure Fusion Network</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Low-Light-Image-Enhancement-Papers/blob/master/l(33).pdf" style="text-decoration:none;">A weighted variational model for simultaneous reflectance and illumination estimation</a></li>                              
