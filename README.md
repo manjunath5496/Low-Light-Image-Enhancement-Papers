@@ -91,7 +91,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Low-Light-Image-Enhancement-Papers/blob/master/l(53).pdf" style="text-decoration:none;">DeepISP: Towards Learning an End-to-End Image Processing Pipeline</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Low-Light-Image-Enhancement-Papers/blob/master/l(54).pdf" style="text-decoration:none;">A Hybrid L 2 −L P Variational Model For Single Low-Light Image Enhancement With Bright Channel Prior </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Low-Light-Image-Enhancement-Papers/blob/master/l(54).pdf" style="text-decoration:none;">A Hybrid L2 −LP Variational Model For Single Low-Light Image Enhancement With Bright Channel Prior </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Low-Light-Image-Enhancement-Papers/blob/master/l(55).pdf" style="text-decoration:none;">Learning a Deep Single Image Contrast Enhancer from Multi-Exposure Images</a></li>
  
